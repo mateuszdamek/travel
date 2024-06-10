@@ -1,0 +1,57 @@
+@using Microsoft.AspNetCore.Mvc.Localization
+@model IEnumerable<UbbRentalBike.ViewModels.ParticipantDto>
+@inject IViewLocalizer Localizer
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>@Localizer["Welcome"]</h2>
+
+<p>
+    @Html.ActionLink(Localizer["Add Participant"].Value, "Create")
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Localizer["Name"]
+        </th>
+        <th>
+            @Localizer["Surname"]
+        </th>
+        <th>
+            @Localizer["Date of Birth"]
+        </th>
+        <th>
+            @Localizer["Email Address"]
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var participant in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => participant.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => participant.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => participant.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => participant.EmailAddress)
+            </td>
+            <td>
+                @Html.ActionLink(Localizer["Edit"].Value, "Edit", new { id = participant.Id }) |
+                @Html.ActionLink(Localizer["Details"].Value, "Details", new { id = participant.Id }) |
+                @Html.ActionLink(Localizer["Delete"].Value, "Delete", new { id = participant.Id })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,1167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\participant\\index.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\participant\\index.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\participant\\index.en-gb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\participant\\index.en-gb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\participant\\index.en-gb.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\participant\\index.en-gb.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\trip\\index.en-gb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\trip\\index.en-gb.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\trip\\index.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\trip\\index.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\trip\\index.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\trip\\index.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\trip\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\trip\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\resources\\views\\participant\\index.en-gb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\participant\\index.en-gb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\endtoendtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\endtoendtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\participantcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\participantcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\travelagencytests.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\travelagencytests.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\travelagencytests.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\travelagencytests.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\rider.project.model.nuget.info||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\rider.project.model.nuget.info||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\project.packagespec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\project.packagespec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\obj\\travelagencytests.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\obj\\travelagencytests.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\bin\\debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\bin\\debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\bin\\debug\\net8.0\\travelagencytests.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\bin\\debug\\net8.0\\travelagencytests.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\bin\\debug\\net8.0\\testhost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\bin\\debug\\net8.0\\testhost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\travelagencytests\\bin\\debug\\net8.0\\travelagencytests.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:travelagencytests\\bin\\debug\\net8.0\\travelagencytests.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\ubbrentalbike.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:ubbrentalbike.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\migrations\\20240527183936_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:migrations\\20240527183936_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\migrations\\20240527183936_second migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:migrations\\20240527183936_second migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\viewmodels\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:viewmodels\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\data\\rentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:data\\rentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\adminpanel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\adminpanel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\adminpanel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\adminpanel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\adminpanel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\adminpanel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\areas\\identity\\data\\ubbrentalbikecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:areas\\identity\\data\\ubbrentalbikecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\controllers\\servicecontrollers\\tripservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:controllers\\servicecontrollers\\tripservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\participant\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\participant\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\wwwroot\\css\\mythemes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:wwwroot\\css\\mythemes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|c:\\users\\loombard\\desktop\\\u015Bmieci\\travel\\wwwroot\\css\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:wwwroot\\css\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\resources\\views\\participant\\index.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C09835C4-BC4E-4321-9DDD-046F7D31B4A7}|UbbRentalBike.csproj|solutionrelative:resources\\views\\participant\\index.pl-pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 66,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Trip\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trip\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Trip\\Index.cshtml",
+              "RelativeToolTip": "Views\\Trip\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T07:27:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.en-GB.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.Designer.cs",
+              "RelativeDocumentMoniker": "Resources\\Views\\Participant\\Index.en-GB.Designer.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.Designer.cs",
+              "RelativeToolTip": "Resources\\Views\\Participant\\Index.en-GB.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:26:51.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TravelAgencyTests.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.props",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-03T13:01:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TravelAgencyTests.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.targets",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.g.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-03T13:01:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "rider.project.model.nuget.info",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\rider.project.model.nuget.info",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\rider.project.model.nuget.info",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\rider.project.model.nuget.info",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\rider.project.model.nuget.info",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T13:01:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "project.packagespec.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\project.packagespec.json",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\project.packagespec.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\project.packagespec.json",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\project.packagespec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T13:01:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\project.nuget.cache",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-06-03T13:01:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TravelAgencyTests.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "TravelAgencyTests\\obj\\TravelAgencyTests.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T13:00:07.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TravelAgencyTests.runtimeconfig.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.runtimeconfig.json",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.runtimeconfig.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.runtimeconfig.json",
+              "RelativeToolTip": "TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.runtimeconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T12:59:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TravelAgencyTests.deps.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.deps.json",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.deps.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.deps.json",
+              "RelativeToolTip": "TravelAgencyTests\\bin\\Debug\\net8.0\\TravelAgencyTests.deps.json",
+              "ViewState": "AQIAAEQAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T12:59:15.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UbbRentalBike.csproj",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\UbbRentalBike.csproj",
+              "RelativeDocumentMoniker": "UbbRentalBike.csproj",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\UbbRentalBike.csproj",
+              "RelativeToolTip": "UbbRentalBike.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T12:54:46.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EndToEndTests.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\EndToEndTests.cs",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\EndToEndTests.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\EndToEndTests.cs",
+              "RelativeToolTip": "TravelAgencyTests\\EndToEndTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:49:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240527183936_second migration.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Migrations\\20240527183936_second migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527183936_second migration.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Migrations\\20240527183936_second migration.cs",
+              "RelativeToolTip": "Migrations\\20240527183936_second migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240527183936_second migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Migrations\\20240527183936_second migration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527183936_second migration.Designer.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Migrations\\20240527183936_second migration.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240527183936_second migration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:16.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\GlobalUsings.cs",
+              "RelativeToolTip": "TravelAgencyTests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:23:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "TravelAgencyTests\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T10:05:30.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "testhost.exe",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\testhost.exe",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\bin\\Debug\\net8.0\\testhost.exe",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\bin\\Debug\\net8.0\\testhost.exe",
+              "RelativeToolTip": "TravelAgencyTests\\bin\\Debug\\net8.0\\testhost.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-06-03T10:05:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\index.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\index.cshtml",
+              "RelativeToolTip": "Views\\Participant\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:51:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ParticipantDto.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\ViewModels\\ParticipantDto.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ParticipantDto.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\ViewModels\\ParticipantDto.cs",
+              "RelativeToolTip": "ViewModels\\ParticipantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:51:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:17:10.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:39:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:39:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:39:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:39:06.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:39:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:39:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:39:04.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:38:59.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:38:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UbbRentalBikeContext.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Data\\UbbRentalBikeContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\UbbRentalBikeContext.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Areas\\Identity\\Data\\UbbRentalBikeContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\UbbRentalBikeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:38:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RentalContext.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Data\\RentalContext.cs",
+              "RelativeDocumentMoniker": "Data\\RentalContext.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Data\\RentalContext.cs",
+              "RelativeToolTip": "Data\\RentalContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:38:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TripServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ServiceControllers\\TripServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceControllers\\TripServiceController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ServiceControllers\\TripServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceControllers\\TripServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:38:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Models\\Participant.cs",
+              "RelativeToolTip": "Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:38:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Details.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:37:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Participant\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:28:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\Details.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Details.cshtml",
+              "RelativeToolTip": "Views\\Participant\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:28:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "Views\\Participant\\DeleteConfirmed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:28:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Participant\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:27:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Participant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Participant\\Create.cshtml",
+              "RelativeToolTip": "Views\\Participant\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:27:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:27:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:19:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:18:48.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:18:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:18:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:18:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:17:34.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:17:34.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminPanel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminPanel\\Index.cshtml",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAkwI4BAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:11:03.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:10:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:10:32.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\TripController.cs",
+              "RelativeToolTip": "Controllers\\TripController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:07:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParticipantController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "Controllers\\ParticipantController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:05:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminPanelController.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\AdminPanelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminPanelController.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Controllers\\AdminPanelController.cs",
+              "RelativeToolTip": "Controllers\\AdminPanelController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwDQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:04:28.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T18:56:07.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "mythemes.css",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\mythemes.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\mythemes.css",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\mythemes.css",
+              "RelativeToolTip": "wwwroot\\css\\mythemes.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T18:53:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T18:52:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T18:52:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HomeStyle.css",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\HomeStyle.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\HomeStyle.css",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\wwwroot\\css\\HomeStyle.css",
+              "RelativeToolTip": "wwwroot\\css\\HomeStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T18:52:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Trip\\Index.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.resx",
+              "RelativeToolTip": "Resources\\Views\\Trip\\Index.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.pl-PL.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.pl-PL.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Trip\\Index.pl-PL.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.pl-PL.resx",
+              "RelativeToolTip": "Resources\\Views\\Trip\\Index.pl-PL.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.en-GB.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.en-GB.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Trip\\Index.en-GB.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Trip\\Index.en-GB.resx",
+              "RelativeToolTip": "Resources\\Views\\Trip\\Index.en-GB.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Participant\\Index.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.resx",
+              "RelativeToolTip": "Resources\\Views\\Participant\\Index.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.pl-PL.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.pl-PL.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Participant\\Index.pl-PL.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.pl-PL.resx",
+              "RelativeToolTip": "Resources\\Views\\Participant\\Index.pl-PL.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.en-GB.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Participant\\Index.en-GB.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.resx",
+              "RelativeToolTip": "Resources\\Views\\Participant\\Index.en-GB.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:08.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.en-GB.pl-pl.resx",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.pl-pl.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Participant\\Index.en-GB.pl-pl.resx",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Resources\\Views\\Participant\\Index.en-GB.pl-pl.resx",
+              "RelativeToolTip": "Resources\\Views\\Participant\\Index.en-GB.pl-pl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-02T18:44:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParticipantControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\ParticipantControllerTests.cs",
+              "RelativeDocumentMoniker": "TravelAgencyTests\\ParticipantControllerTests.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\TravelAgencyTests\\ParticipantControllerTests.cs",
+              "RelativeToolTip": "TravelAgencyTests\\ParticipantControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:41:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJ8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:32:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\loombard\\Desktop\\\u015Amieci\\travel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T18:24:48.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
